@@ -1,9 +1,11 @@
 # Vue 3でservice workerを用いるリポジトリ。
-# リポジトリのルートでnpm run serveを実行し、ChromeでURLを開く。
-# 一度開けば、サーバーを閉じてもページが読めるはず。
-# 参考にしたサイト: 
-# https://dev.to/voodu/vue-3-pwa-service-worker-12di
-# ただし、workbox-expirationに関する記述が古く、動作しなかったため、該当部分を削除した。
+```
+ リポジトリのルートでnpm run serveを実行し、ChromeでURLを開く。
+ 一度開けば、サーバーを閉じてもページが読めるはず。
+ 参考にしたサイト: 
+ https://dev.to/voodu/vue-3-pwa-service-worker-12di
+ ただし、workbox-expirationに関する記述が古く、動作しなかったため、該当部分を削除した。
+```
 
 ## Project setup
 ```
